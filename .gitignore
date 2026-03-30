@@ -1,0 +1,22 @@
+# User config (copy config.example.json → config.json and edit it)
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# faster-whisper model cache
+models/
+
+# OS
+.DS_Store
+Thumbs.db

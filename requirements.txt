@@ -1,0 +1,10 @@
+faster-whisper>=1.1.1
+av>=12.0.0,<13
+keyboard
+sounddevice
+numpy
+pyperclip
+pynput
+plyer
+Pillow
+pystray
